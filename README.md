@@ -2,8 +2,7 @@
 
 An interactive web application built with Python and Streamlit for visualizing and analyzing historical Formula 1 race data. This dashboard brings telemetry to life, allowing users to replay entire sessions with a dynamic, data-driven map and in-depth analytical panels.
 
-![App Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*(Wskazówka: Zrób zrzut ekranu działającej aplikacji, wrzuć go np. na Imgur i wklej tutaj link)*
+![App Screenshot](https://i.imgur.com/zewBPwQ.png)
 
 ## Key Features
 
